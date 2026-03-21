@@ -3,34 +3,65 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Devendra%20Rawat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />
 
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Devendra+Rawat;💻+Frontend+Developer;⚛️+React+%7C+Next.js+Enthusiast;🎨+Pixel-perfect+UI+Builder;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
 </div>
 
 ---
+
+## 🖥️ devendra.config.js
 
 <div align="center">
 
-### 👋 Hello, World! I'm **Devendra Rawat**
+<table>
+<tr>
+<td valign="top" width="55%">
 
-🎯 Frontend Developer passionate about crafting clean, performant, and pixel-perfect user interfaces.  
-🚀 Currently exploring **Next.js** and actively seeking exciting projects to contribute to.  
-💼 Open to **freelance**, **collaboration**, and **full-time opportunities**.
+```javascript
+// 📁 devendra.config.js
+// ─────────────────────────────────────
+//  VS Code Theme  : One Dark Pro
+//  Terminal       : Zsh + Oh My Zsh
+// ─────────────────────────────────────
+
+const developer = {
+  name       : "Devendra Rawat",
+  alias      : "Bytesbydev",
+  role       : "Frontend Developer",
+  location   : "India 🇮🇳",
+
+  currentFocus: [
+    "Mastering Next.js 14+",
+    "Building real-world projects",
+    "Contributing to Open Source",
+  ],
+
+  stack: {
+    languages  : ["JS", "C", "C++", "Java", "SQL"],
+    frontend   : ["React", "Next.js", "HTML", "CSS"],
+    styling    : ["Tailwind", "Bootstrap"],
+    backend    : ["Node.js", "Firebase"],
+    tools      : ["Git", "VS Code", "Figma", "Vercel"],
+  },
+
+  openTo     : ["Freelance", "Collab", "Full-time"],
+  funFact    : "I write cleaner code than notes 😄",
+};
+
+export default developer;
+```
+
+</td>
+<td valign="top" width="45%">
+
+<img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-```js
-const devendra = {
-  name      : "Devendra Rawat",
-  alias     : "Bytesbydev",
-  role      : "Frontend Developer",
-  currently : ["Learning Next.js", "Exploring new projects"],
-  goal      : "Build impactful, scalable web experiences",
-  fun_fact  : "I write cleaner code than I write notes 😄"
-};
-```
 
 ---
 
@@ -109,9 +140,21 @@ const devendra = {
 
 ---
 
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
 ## 🎯 Current Goals & Projects
 
-```
+```bash
+$ cat goals.txt
+
 🔭  Seeking exciting frontend/full-stack projects to work on
 📚  Mastering Next.js — SSR, SSG, App Router & beyond
 🌐  Building portfolio projects with real-world impact
