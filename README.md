@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Devendra%20Rawat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Building%20the%20Web%2C%20One%20Component%20at%20a%20Time&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />
+<!-- Terminal Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d1117&height=120&text=~/Bytesbydev%20$&fontSize=40&fontColor=00FF41&fontAlign=50&fontAlignY=55&desc=▌&descAlign=58&descAlignY=55&descColor=00FF41&animation=fadeIn" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Devendra+Rawat;💻+Frontend+Developer;⚛️+React+%7C+Next.js+Enthusiast;🎨+Pixel-perfect+UI+Builder;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+<!-- Terminal Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami+→+Devendra+Rawat;%24+role+→+Frontend+Developer;%24+stack+→+React+%7C+Next.js+%7C+JS+%7C+Firebase;%24+status+→+Learning+%26+Building+🚀;%24+open_to+→+Freelance+%7C+Collab+%7C+Full-time;%24+_)](https://git.io/typing-svg)
 
 </div>
 
