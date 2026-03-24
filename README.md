@@ -125,21 +125,7 @@ export default developer;
 </div>
 
 ---
-## 📈 Contribution Breakdown
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bytesbydev&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bytesbydev&theme=github_dark" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bytesbydev&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bytesbydev&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
----
 ## 🐍 Snake Eating My Contributions
 
 <div align="center">
