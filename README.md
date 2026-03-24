@@ -164,16 +164,7 @@ $ cat goals.txt
 
 ---
 
-## 📡 GitHub Insights
 
-<div align="center">
-
-<img src="https://metrics.lecoq.io/Bytesbydev?template=classic&base.header=0&config.timezone=Asia%2FKolkata&base.activity=1&base.community=1&base.repositories=1&base.metadata=1" />
-
-</div>
-```
-
----
 
 ## 🏆 GitHub Trophies
 
