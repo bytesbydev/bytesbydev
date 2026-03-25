@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -11,13 +11,12 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Pacman Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Bytesbydev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
