@@ -120,24 +120,26 @@ $ ping devendra
 
 ⚡ &nbsp; **`skill.levels --show-progress`**
 
-```bash
-$ skill --list --show-progress
+<div align="center">
 
-  React        ████████████████████░░░░   85%  ⚛️
-  JavaScript   ███████████████████░░░░░   80%  💛
-  HTML & CSS   ████████████████████████   95%  🎨
-  Next.js      ██████████████░░░░░░░░░░   60%  🔺
-  Tailwind     ████████████████░░░░░░░░   70%  🌊
-  Firebase     █████████████░░░░░░░░░░░   55%  🔥
-  Node.js      ████████████░░░░░░░░░░░░   50%  🟢
-  C / C++      ███████████████░░░░░░░░░   65%  ⚙️
-  Java         ████████████░░░░░░░░░░░░   50%  ☕
-  SQL          █████████████░░░░░░░░░░░   55%  🗄️
-  Git          ███████████████████░░░░░   80%  🔧
-  Figma        ████████████░░░░░░░░░░░░   50%  🎭
+| Skill | Level | Progress |
+|-------|-------|----------|
+| ⚛️ React | **85%** | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-61DAFB?style=flat-square&logoColor=white) |
+| 💛 JavaScript | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F7DF1E?style=flat-square&logoColor=black) |
+| 🎨 HTML & CSS | **95%** | ![95%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-E34F26?style=flat-square&logoColor=white) |
+| 🔺 Next.js | **60%** | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-60%25-ffffff?style=flat-square&logoColor=white) |
+| 🌊 Tailwind CSS | **70%** | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-70%25-38B2AC?style=flat-square&logoColor=white) |
+| 🔥 Firebase | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-FFCA28?style=flat-square&logoColor=black) |
+| 🟢 Node.js | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-339933?style=flat-square&logoColor=white) |
+| ⚙️ C / C++ | **65%** | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░-65%25-00599C?style=flat-square&logoColor=white) |
+| ☕ Java | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-ED8B00?style=flat-square&logoColor=white) |
+| 🗄️ SQL | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-4479A1?style=flat-square&logoColor=white) |
+| 🔧 Git | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F05032?style=flat-square&logoColor=white) |
+| 🎭 Figma | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-F24E1E?style=flat-square&logoColor=white) |
 
-  [ OVERALL LEVEL : ████████████████░░░░ ] 72% → LEVELING UP 🚀
-```
+![Overall](https://img.shields.io/badge/OVERALL%20LEVEL-72%25%20→%20LEVELING%20UP%20🚀-00FF41?style=for-the-badge)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
