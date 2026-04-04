@@ -118,14 +118,26 @@ $ ping devendra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-📊 &nbsp; **`github.stats --fetch`**
+⚡ &nbsp; **`skill.levels --show-progress`**
 
-<div align="center">
+```bash
+$ skill --list --show-progress
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  React        ████████████████████░░░░   85%  ⚛️
+  JavaScript   ███████████████████░░░░░   80%  💛
+  HTML & CSS   ████████████████████████   95%  🎨
+  Next.js      ██████████████░░░░░░░░░░   60%  🔺
+  Tailwind     ████████████████░░░░░░░░   70%  🌊
+  Firebase     █████████████░░░░░░░░░░░   55%  🔥
+  Node.js      ████████████░░░░░░░░░░░░   50%  🟢
+  C / C++      ███████████████░░░░░░░░░   65%  ⚙️
+  Java         ████████████░░░░░░░░░░░░   50%  ☕
+  SQL          █████████████░░░░░░░░░░░   55%  🗄️
+  Git          ███████████████████░░░░░   80%  🔧
+  Figma        ████████████░░░░░░░░░░░░   50%  🎭
 
-</div>
+  [ OVERALL LEVEL : ████████████████░░░░ ] 72% → LEVELING UP 🚀
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
