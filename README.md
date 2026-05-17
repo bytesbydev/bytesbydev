@@ -1,184 +1,175 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:001a00,100:000000&height=220&text=~/Bytesbydev%20$%20_&fontSize=45&fontColor=00FF41&fontAlignY=45&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20UI%20Craftsman&descColor=00cc33&descAlignY=65&animation=fadeIn&stroke=00FF41&strokeWidth=1" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+boot+profile.sh+...+✓+DONE;%24+whoami+%3E+Devendra+Rawat;%24+role+%3E+Frontend+Developer;%24+stack+%3E+React+%7C+Next.js+%7C+JS+%7C+Firebase;%24+status+%3E+%5B+OPEN+TO+WORK+%5D+🚀;%24+mood+%3E+Always+Learning%2C+Always+Building+💻)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bytesbydev&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Bytesbydev?color=00FF41&style=flat-square&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/Bytesbydev?color=00FF41&style=flat-square&label=TOTAL+STARS)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0a0a0f&height=200&text=Devendra%20Rawat&fontSize=52&fontColor=FFB800&fontAlignY=38&desc=Frontend%20Developer%20·%20React%20·%20Next.js%20·%20UI%20Engineer&descColor=e0c97f&descAlignY=60&animation=twinkling&stroke=FFB800&strokeWidth=1" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> &nbsp; `devendra.config.js`
+<br/>
 
 <div align="center">
-<table>
-<tr>
-<td valign="top" width="55%">
 
-```javascript
-/**
- * ┌──────────────────────────────────────┐
- * │          devendra.config.js          │
- * │  ▸ Theme    : One Dark Pro           │
- * │  ▸ Terminal : Zsh + Oh My Zsh        │
- * │  ▸ Editor   : VS Code               │
- * │  ▸ OS       : Windows / Linux       │
- * └──────────────────────────────────────┘
- */
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=600&lines=Turning+ideas+into+pixel-perfect+interfaces;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Open+to+Freelance+%2B+Full-time+Opportunities;Building+in+public+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
 
-const developer = {
-  name        : "Devendra Rawat",
-  alias       : "Bytesbydev",
-  role        : "Frontend Developer",
-  location    : "India 🇮🇳",
-  status      : "🟢 Open to Work",
-
-  currentFocus : [
-    "Mastering Next.js 14+",
-    "Building real-world projects",
-    "Open Source Contributions",
-  ],
-
-  stack : {
-    languages : ["JS", "C", "C++", "Java", "SQL"],
-    frontend  : ["React", "Next.js", "HTML", "CSS"],
-    styling   : ["Tailwind", "Bootstrap"],
-    backend   : ["Node.js", "Firebase"],
-    tools     : ["Git", "VS Code", "Figma", "Vercel"],
-  },
-
-  openTo   : ["Freelance", "Collab", "Full-time"],
-  funFact  : "I write cleaner code than notes 😄",
-};
-
-export default developer; // ◄ ALL SYSTEMS GO ✓
-```
-
-</td>
-<td valign="top" width="45%">
-
-<img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
 <br/>
 
-```bash
-$ uptime
-> Always online, always coding 💻
+<div align="center">
 
-$ ping devendra
-> Response: Instant ⚡
+![Profile Views](https://komarev.com/ghpvc/?username=Bytesbydev&color=FFB800&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Bytesbydev?color=FFB800&style=flat-square&label=FOLLOWERS&labelColor=1a1a2e)
+&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Bytesbydev?color=FFB800&style=flat-square&label=STARS&labelColor=1a1a2e)
 
-$ cat availability.txt
-> Open to exciting projects 🚀
+</div>
+
+---
+
+<br/>
+
+## ◈ &nbsp; About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+# devendra.yaml
+───────────────────────────────
+name       : Devendra Rawat
+handle     : @Bytesbydev
+role       : Frontend Developer
+based_in   : India 🇮🇳
+status     : ◉ Open to Work
+
+focus:
+  - Next.js 14+ (App Router)
+  - Production-grade UI/UX
+  - Open Source Contributions
+  - DSA with C++ & Java
+
+seeking:
+  - Freelance Projects
+  - Full-time Roles
+  - Open Source Collabs
+
+motto: "ship it, then make it beautiful"
+───────────────────────────────
 ```
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
 
 </td>
 </tr>
 </table>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22"> &nbsp; `tech.stack --list-all`
+---
 
-**`▸ FRONTEND`**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**`▸ BACKEND & DATABASE`**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**`▸ LANGUAGES`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**`▸ TOOLS & PLATFORMS`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚡ &nbsp; `skill.levels --show-progress`
+## ◈ &nbsp; Tech Arsenal
 
 <div align="center">
 
-| Skill | Level | Progress |
-|-------|-------|----------|
-| ⚛️ React | **85%** | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-61DAFB?style=flat-square) |
-| 💛 JavaScript | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F7DF1E?style=flat-square) |
-| 🎨 HTML & CSS | **95%** | ![95%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-E34F26?style=flat-square) |
-| 🔺 Next.js | **60%** | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-60%25-ffffff?style=flat-square) |
-| 🌊 Tailwind CSS | **70%** | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-70%25-38B2AC?style=flat-square) |
-| 🔥 Firebase | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-FFCA28?style=flat-square) |
-| 🟢 Node.js | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-339933?style=flat-square) |
-| ⚙️ C / C++ | **65%** | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░-65%25-00599C?style=flat-square) |
-| ☕ Java | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-ED8B00?style=flat-square) |
-| 🗄️ SQL | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-4479A1?style=flat-square) |
-| 🔧 Git | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F05032?style=flat-square) |
-| 🎭 Figma | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-F24E1E?style=flat-square) |
+**— FRONTEND —**
 
-![Overall](https://img.shields.io/badge/OVERALL%20LEVEL-72%25%20→%20LEVELING%20UP%20🚀-00FF41?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**— BACKEND & DATA —**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**— LANGUAGES —**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**— TOOLS —**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 📊 &nbsp; `github.stats --verbose`
+---
+
+## ◈ &nbsp; Skill Matrix
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" />
+| &nbsp; | Skill | Proficiency |
+|:---:|:---|:---|
+| 🎨 | HTML & CSS | `████████████████████` **95%** |
+| ⚛️ | React | `█████████████████░░░` **85%** |
+| 💛 | JavaScript | `████████████████░░░░` **80%** |
+| 🔧 | Git | `████████████████░░░░` **80%** |
+| 🌊 | Tailwind CSS | `██████████████░░░░░░` **70%** |
+| ⚙️ | C / C++ | `█████████████░░░░░░░` **65%** |
+| 🔺 | Next.js | `████████████░░░░░░░░` **60%** |
+| 🗄️ | SQL | `███████████░░░░░░░░░` **55%** |
+| 🔥 | Firebase | `███████████░░░░░░░░░` **55%** |
+| 🟢 | Node.js | `██████████░░░░░░░░░░` **50%** |
+| ☕ | Java | `██████████░░░░░░░░░░` **50%** |
+| 🎭 | Figma | `██████████░░░░░░░░░░` **50%** |
+
+<br/>
+
+![Overall](https://img.shields.io/badge/OVERALL-72%25%20·%20Leveling%20Up%20Daily-FFB800?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🔥 &nbsp; `streak.stats --show`
+---
+
+## ◈ &nbsp; GitHub Stats
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=ff6b6b&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB800&icon_color=FFB800&text_color=e0c97f&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB800&text_color=e0c97f&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&theme=tokyonight&hide_border=true&background=0d1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=e0c97f&dates=888&stroke=FFB800" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 📈 &nbsp; `contribution.graph --render`
+---
+
+## ◈ &nbsp; Contribution Graph
 
 <div align="center">
 
-[![Devendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FF41&line=00cc33&point=00FF41&area=true&area_color=001a00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFB800&line=e0c97f&point=FFB800&area=true&area_color=332200)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🟡 &nbsp; `pacman --eat-contributions`
+---
+
+## ◈ &nbsp; Pac-Man Contributions
 
 <div align="center">
 
@@ -186,40 +177,47 @@ $ cat availability.txt
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🏆 &nbsp; `trophies --unlock`
+---
+
+## ◈ &nbsp; Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🎯 &nbsp; `cat goals.txt`
+---
 
-```bash
-┌─────────────────────────────────────────────────────────┐
-│           /home/bytesbydev/goals.txt                    │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  🔭  Finding exciting projects to contribute to        │
-│  📚  Mastering Next.js — SSR, SSG & App Router         │
-│  🌐  Building portfolio projects with real impact      │
-│  ⚡  Sharpening DSA skills with C++ and Java           │
-│  🤝  Contributing to Open Source repos                 │
-│  🚀  Becoming a Full Stack Developer                   │
-│                                                         │
-│  PROGRESS  [ ████████████████░░░░░░ ]  72% complete    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+## ◈ &nbsp; What I'm Building Toward
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │                                                              │
+  │   🔭   Contribute to meaningful open source projects        │
+  │   📚   Master Next.js — SSR · SSG · ISR · App Router       │
+  │   🌐   Ship portfolio projects with real-world impact       │
+  │   ⚡   Sharpen DSA fundamentals with C++ & Java             │
+  │   🚀   Grow into a confident Full Stack Developer           │
+  │                                                              │
+  │   PROGRESS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  72%                    │
+  │                                                              │
+  └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-## 💬 &nbsp; `quote.exe --random`
+<br/>
+
+---
+
+## ◈ &nbsp; Dev Quote
 
 <div align="center">
 
@@ -227,39 +225,38 @@ $ cat availability.txt
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🌐 &nbsp; `ping devendra --all-platforms`
+---
+
+## ◈ &nbsp; Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Bytesbydev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bytesbydev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bytesbydev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bytesbydev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bytesbydev@gmail.com)
+<br/>
 
-```bash
-$ connection established ✓ — feel free to reach out anytime!
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-```bash
-$ echo "Thanks for visiting! Drop a ⭐ if you like my work!"
-> Thanks for visiting! Drop a ⭐ if you like my work!
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devendra%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/Bytesbydev)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@Bytesbydev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0f)](https://twitter.com/Bytesbydev)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-bytesbydev.vercel.app-FFB800?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0f)](https://bytesbydev.vercel.app)
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Bytesbydev&color=00FF41&style=for-the-badge&label=VISITORS)
+[![GitHub](https://img.shields.io/badge/GitHub-@Bytesbydev-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0f)](https://github.com/Bytesbydev)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-bytesbydev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:bytesbydev@gmail.com)
+
+<br/><br/>
+
+> *"Code is craft. Ship with intention."*
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=60&text=>//+EOF+%7C+Bytesbydev+%7C+2025&fontSize=16&fontColor=00FF41&fontAlign=50&fontAlignY=55" />
+![Visitor Count](https://komarev.com/ghpvc/?username=Bytesbydev&color=FFB800&style=for-the-badge&label=VISITORS)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0a0a0f&height=100&section=footer&text=Bytesbydev%20·%202025&fontSize=16&fontColor=FFB800&fontAlignY=65" />
 
 </div>
