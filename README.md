@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a192f,60:0d0d0d,100:0a192f&height=260&text=Devendra%20Rawat&fontSize=60&fontColor=64ffda&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=18&descColor=8892b0&descAlignY=62&animation=fadeIn&stroke=64ffda&strokeWidth=1.5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a192f,60:0d0d0d,100:0a192f&height=260&text=bytesbydev&fontSize=70&fontColor=64ffda&fontAlignY=40&desc=⚡%20Frontend%20Developer%20·%20UI%20Engineer%20·%20Open%20Source%20Enthusiast%20⚡&descSize=17&descColor=8892b0&descAlignY=63&animation=fadeIn&stroke=64ffda&strokeWidth=1.5" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Hey+there%2C+I'm+Devendra+👋;I+craft+beautiful+web+experiences;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Always+learning%2C+always+shipping+🚀;Open+to+Work+—+Let's+build+something+great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hey+there!+I'm+%40bytesbydev+👋;I+turn+ideas+into+pixel-perfect+UIs;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Shipping+clean+code%2C+one+commit+at+a+time+🚀;Open+to+Work+—+Let's+build+together!;Code+is+craft.+I+take+it+seriously+⚡)](https://git.io/typing-svg)
 
 <br/>
 
@@ -51,58 +51,24 @@
 
 <br/>
 
-<table align="center" width="90%">
-<tr>
-<td valign="top" width="55%">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="coding gif" />
 
-```ts
-// about.ts
-
-const devendra = {
-  name     : "Devendra Rawat",
-  alias    : "Bytesbydev",
-  role     : "Frontend Developer",
-  location : "India 🇮🇳",
-
-  passions : [
-    "Building pixel-perfect UIs",
-    "Open source contributions",
-    "Learning in public",
-    "Clean, maintainable code",
-  ],
-
-  currentlyLearning : [
-    "Next.js 14 App Router",
-    "System Design",
-    "DSA with C++",
-  ],
-
-  availableFor : [
-    "Freelance",
-    "Full-time",
-    "Collaborations",
-  ],
-
-  funFact : "My code reviews are better than my notes 😄",
-} as const;
-```
-
-</td>
-<td valign="top" width="45%" align="center">
+- 🧑‍💻 &nbsp; I'm a **Frontend Developer** based in **India 🇮🇳**
+- 🔭 &nbsp; Currently building [**DevScope**](https://github.com/Bytesbydev/DevScope) & sharpening my Next.js skills
+- 🌱 &nbsp; Learning **Next.js App Router**, **TypeScript**, and **System Design**
+- ⚡ &nbsp; I love crafting **pixel-perfect**, **responsive** web experiences
+- 💬 &nbsp; Ask me about **React**, **Tailwind CSS**, **JavaScript**, or **Firebase**
+- 🤝 &nbsp; Open to **Freelance**, **Full-time**, and **Open Source** collabs
+- 🎯 &nbsp; Goal: Ship meaningful products & grow into a **Full Stack Developer**
+- 😄 &nbsp; Fun fact: My git commits are cleaner than my room 🧹
 
 <br/>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding" />
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-bytesbydev.vercel.app-64ffda?style=for-the-badge&labelColor=0a192f)](https://bytesbydev.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/📬%20Hire%20Me-bytesbydev@gmail.com-8892b0?style=for-the-badge&labelColor=0a192f)](mailto:bytesbydev@gmail.com)
 
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-64ffda?style=for-the-badge&labelColor=0a192f)](https://bytesbydev.vercel.app)
-
-[![Resume](https://img.shields.io/badge/📄%20Resume-Download-8892b0?style=for-the-badge&labelColor=0a192f)](https://bytesbydev.vercel.app)
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
@@ -250,20 +216,38 @@ const devendra = {
 
 <div align="center">
 
-<!-- Project Cards — replace links with your actual repos -->
-<a href="https://github.com/Bytesbydev/CodeStash">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Bytesbydev&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+<!-- Row 1 -->
+<a href="https://github.com/Bytesbydev/ai-resume-analyzer">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=ai-resume-analyzer&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
 </a>
 &nbsp;
-<a href="https://github.com/Bytesbydev">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Bytesbydev&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+<a href="https://github.com/Bytesbydev/Hand-Gesture-3D">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Hand-Gesture-3D&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+</a>
+
+<br/><br/>
+
+<!-- Row 2 -->
+<a href="https://github.com/Bytesbydev/DevScope">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=DevScope&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+</a>
+&nbsp;
+<a href="https://github.com/Bytesbydev/react-workbench">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=react-workbench&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+</a>
+
+<br/><br/>
+
+<!-- Row 3 -->
+<a href="https://github.com/Bytesbydev/Recipe-finder">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Recipe-finder&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+</a>
+&nbsp;
+<a href="https://github.com/Bytesbydev/Trek-Project">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Trek-Project&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
 </a>
 
 </div>
-
-<br/>
-
-> 💡 **Tip:** Replace the `repo=` values above with your actual repository names to display real project cards!
 
 <br/>
 
@@ -283,23 +267,46 @@ const devendra = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                    ROADMAP  2025 → 2026                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║   ✅  Master React ecosystem (hooks, context, patterns)        ║
-║   🔄  Next.js 14 — App Router, Server Components, ISR         ║
-║   🔄  TypeScript — strict mode, advanced generics             ║
-║   ⏳  System Design fundamentals                               ║
-║   ⏳  DSA mastery with C++ & Java                             ║
-║   ⏳  Open Source — first meaningful PR                        ║
-║   ⏳  Full Stack — Node.js + PostgreSQL                        ║
-║                                                                 ║
-║   OVERALL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  72% → 100%                  ║
-║                                                                 ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<table width="90%">
+<tr>
+<td width="50%" valign="top">
+
+**🔥 Currently Grinding**
+
+- ⚛️ &nbsp; Next.js 14 — App Router & Server Components
+- 🟦 &nbsp; TypeScript — strict mode & advanced patterns
+- 🎨 &nbsp; Advanced CSS animations & micro-interactions
+- 🧠 &nbsp; System Design fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 On the Horizon**
+
+- 🔢 &nbsp; DSA mastery with C++ & Java (LeetCode grind)
+- 🌍 &nbsp; First meaningful Open Source contribution
+- 🛠️ &nbsp; Full Stack — Node.js + PostgreSQL
+- 📦 &nbsp; Publish an npm package
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+| Milestone | Status | Progress |
+|:---|:---:|:---|
+| React Ecosystem Mastery | ✅ Done | `████████████████████` 100% |
+| Next.js App Router | 🔄 Active | `████████████░░░░░░░░` 60% |
+| TypeScript Proficiency | 🔄 Active | `████████░░░░░░░░░░░░` 40% |
+| System Design | ⏳ Soon | `████░░░░░░░░░░░░░░░░` 20% |
+| DSA (C++ / Java) | ⏳ Soon | `██████░░░░░░░░░░░░░░` 30% |
+| Full Stack (Node + DB) | ⏳ Soon | `████░░░░░░░░░░░░░░░░` 20% |
+| Open Source PR | ⏳ Soon | `██░░░░░░░░░░░░░░░░░░` 10% |
+
+<br/>
+
+![Overall](https://img.shields.io/badge/Overall%20Dev%20Journey-72%25%20Complete-64ffda?style=for-the-badge&labelColor=0a192f)
 
 </div>
 
@@ -369,8 +376,7 @@ Always open to interesting conversations, collab ideas, or just a friendly hello
 
 <div align="center">
 
-<!-- Random dev quote -->
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding animation" />
 
 </div>
 
