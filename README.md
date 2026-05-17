@@ -214,40 +214,117 @@
 
 <br/>
 
-<div align="center">
+<table align="center" width="96%">
 
-<!-- Row 1 -->
+<!-- ── Row 1 ─────────────────────────────────────────────────────── -->
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Bytesbydev/ai-resume-analyzer">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=ai-resume-analyzer&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Bytesbydev/ai-resume-analyzer/main/preview.png"
+       onerror="this.src='https://opengraph.githubassets.com/1/Bytesbydev/ai-resume-analyzer'"
+       alt="AI Resume Analyzer" />
 </a>
-&nbsp;
+
+**[🤖 AI Resume Analyzer](https://github.com/Bytesbydev/ai-resume-analyzer)**
+> Analyze resumes with AI — get instant feedback, scores & suggestions.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI%20Powered-64ffda?style=flat-square&logoColor=0a192f&labelColor=0a192f)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Bytesbydev/Hand-Gesture-3D">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Hand-Gesture-3D&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Bytesbydev/Hand-Gesture-3D/main/preview.png"
+       onerror="this.src='https://opengraph.githubassets.com/1/Bytesbydev/Hand-Gesture-3D'"
+       alt="Hand Gesture 3D" />
 </a>
 
-<br/><br/>
+**[🖐️ Hand Gesture 3D](https://github.com/Bytesbydev/Hand-Gesture-3D)**
+> Control 3D objects with real-time hand gesture recognition.
 
-<!-- Row 2 -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![3D](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+![CV](https://img.shields.io/badge/Computer%20Vision-64ffda?style=flat-square&labelColor=0a192f)
+
+</td>
+</tr>
+
+<!-- ── Row 2 ─────────────────────────────────────────────────────── -->
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Bytesbydev/DevScope">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=DevScope&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Bytesbydev/DevScope/main/preview.png"
+       onerror="this.src='https://opengraph.githubassets.com/1/Bytesbydev/DevScope'"
+       alt="DevScope" />
 </a>
-&nbsp;
+
+**[🔭 DevScope](https://github.com/Bytesbydev/DevScope)**
+> Developer-focused dashboard to explore GitHub profiles & repos at a glance.
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Bytesbydev/react-workbench">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=react-workbench&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Bytesbydev/react-workbench/main/preview.png"
+       onerror="this.src='https://opengraph.githubassets.com/1/Bytesbydev/react-workbench'"
+       alt="React Workbench" />
 </a>
 
-<br/><br/>
+**[⚛️ React Workbench](https://github.com/Bytesbydev/react-workbench)**
+> A collection of React components, hooks & patterns — built & documented.
 
-<!-- Row 3 -->
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+
+<!-- ── Row 3 ─────────────────────────────────────────────────────── -->
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/Bytesbydev/Recipe-finder">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Recipe-finder&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
-</a>
-&nbsp;
-<a href="https://github.com/Bytesbydev/Trek-Project">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Trek-Project&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+  <img width="100%" src="https://raw.githubusercontent.com/Bytesbydev/Recipe-finder/main/preview.png"
+       onerror="this.src='https://opengraph.githubassets.com/1/Bytesbydev/Recipe-finder'"
+       alt="Recipe Finder" />
 </a>
 
-</div>
+**[🍽️ Recipe Finder](https://github.com/Bytesbydev/Recipe-finder)**
+> Search thousands of recipes by ingredients, cuisine, or dietary preference.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![API](https://img.shields.io/badge/Spoonacular%20API-64ffda?style=flat-square&labelColor=0a192f)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Bytesbydev/Trek-Project">
+  <img width="100%" src="https://raw.githubusercontent.com/Bytesbydev/Trek-Project/main/preview.png"
+       onerror="this.src='https://opengraph.githubassets.com/1/Bytesbydev/Trek-Project'"
+       alt="Trek Project" />
+</a>
+
+**[🏕️ Trek Project](https://github.com/Bytesbydev/Trek-Project)**
+> A travel & trekking guide UI with routes, destinations & trip planning.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+
+</table>
 
 <br/>
 
