@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> &nbsp; **`devendra.config.js`**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> &nbsp; `devendra.config.js`
 
 <div align="center">
 <table>
@@ -75,6 +75,9 @@ $ uptime
 
 $ ping devendra
 > Response: Instant ⚡
+
+$ cat availability.txt
+> Open to exciting projects 🚀
 ```
 
 </td>
@@ -84,7 +87,7 @@ $ ping devendra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22"> &nbsp; **`tech.stack --list-all`**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22"> &nbsp; `tech.stack --list-all`
 
 **`▸ FRONTEND`**
 
@@ -98,12 +101,13 @@ $ ping devendra
 
 **`▸ BACKEND & DATABASE`**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **`▸ LANGUAGES`**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -118,24 +122,24 @@ $ ping devendra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-⚡ &nbsp; **`skill.levels --show-progress`**
+## ⚡ &nbsp; `skill.levels --show-progress`
 
 <div align="center">
 
 | Skill | Level | Progress |
 |-------|-------|----------|
-| ⚛️ React | **85%** | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-61DAFB?style=flat-square&logoColor=white) |
-| 💛 JavaScript | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F7DF1E?style=flat-square&logoColor=black) |
-| 🎨 HTML & CSS | **95%** | ![95%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-E34F26?style=flat-square&logoColor=white) |
-| 🔺 Next.js | **60%** | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-60%25-ffffff?style=flat-square&logoColor=white) |
-| 🌊 Tailwind CSS | **70%** | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-70%25-38B2AC?style=flat-square&logoColor=white) |
-| 🔥 Firebase | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-FFCA28?style=flat-square&logoColor=black) |
-| 🟢 Node.js | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-339933?style=flat-square&logoColor=white) |
-| ⚙️ C / C++ | **65%** | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░-65%25-00599C?style=flat-square&logoColor=white) |
-| ☕ Java | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-ED8B00?style=flat-square&logoColor=white) |
-| 🗄️ SQL | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-4479A1?style=flat-square&logoColor=white) |
-| 🔧 Git | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F05032?style=flat-square&logoColor=white) |
-| 🎭 Figma | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-F24E1E?style=flat-square&logoColor=white) |
+| ⚛️ React | **85%** | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░-85%25-61DAFB?style=flat-square) |
+| 💛 JavaScript | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F7DF1E?style=flat-square) |
+| 🎨 HTML & CSS | **95%** | ![95%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░-95%25-E34F26?style=flat-square) |
+| 🔺 Next.js | **60%** | ![60%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░-60%25-ffffff?style=flat-square) |
+| 🌊 Tailwind CSS | **70%** | ![70%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░-70%25-38B2AC?style=flat-square) |
+| 🔥 Firebase | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-FFCA28?style=flat-square) |
+| 🟢 Node.js | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-339933?style=flat-square) |
+| ⚙️ C / C++ | **65%** | ![65%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░-65%25-00599C?style=flat-square) |
+| ☕ Java | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-ED8B00?style=flat-square) |
+| 🗄️ SQL | **55%** | ![55%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░-55%25-4479A1?style=flat-square) |
+| 🔧 Git | **80%** | ![80%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░-80%25-F05032?style=flat-square) |
+| 🎭 Figma | **50%** | ![50%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░-50%25-F24E1E?style=flat-square) |
 
 ![Overall](https://img.shields.io/badge/OVERALL%20LEVEL-72%25%20→%20LEVELING%20UP%20🚀-00FF41?style=for-the-badge)
 
@@ -143,27 +147,38 @@ $ ping devendra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🔥 &nbsp; **`streak.stats --show`**
+## 📊 &nbsp; `github.stats --verbose`
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bytesbydev&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-📈 &nbsp; **`contribution.graph --render`**
+## 🔥 &nbsp; `streak.stats --show`
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true)
+<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=ff6b6b&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🟡 &nbsp; **`pacman --eat-contributions`**
+## 📈 &nbsp; `contribution.graph --render`
+
+<div align="center">
+
+[![Devendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00FF41&line=00cc33&point=00FF41&area=true&area_color=001a00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🟡 &nbsp; `pacman --eat-contributions`
 
 <div align="center">
 
@@ -173,17 +188,17 @@ $ ping devendra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-💬 &nbsp; **`quote.exe --random`**
+## 🏆 &nbsp; `trophies --unlock`
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🎯 &nbsp; **`cat goals.txt`**
+## 🎯 &nbsp; `cat goals.txt`
 
 ```bash
 ┌─────────────────────────────────────────────────────────┐
@@ -204,17 +219,17 @@ $ ping devendra
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🏆 &nbsp; **`trophies --unlock`**
+## 💬 &nbsp; `quote.exe --random`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-🌐 &nbsp; **`ping devendra --all-platforms`**
+## 🌐 &nbsp; `ping devendra --all-platforms`
 
 <div align="center">
 
@@ -241,7 +256,7 @@ $ echo "Thanks for visiting! Drop a ⭐ if you like my work!"
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Bytesbydev&color=58a6ff&style=for-the-badge&label=VISITORS)
+![Visitor Count](https://komarev.com/ghpvc/?username=Bytesbydev&color=00FF41&style=for-the-badge&label=VISITORS)
 
 <br/>
 
