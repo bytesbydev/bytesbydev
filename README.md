@@ -1,67 +1,104 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HERO BANNER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0a0a0f&height=200&text=Devendra%20Rawat&fontSize=52&fontColor=FFB800&fontAlignY=38&desc=Frontend%20Developer%20·%20React%20·%20Next.js%20·%20UI%20Engineer&descColor=e0c97f&descAlignY=60&animation=twinkling&stroke=FFB800&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a192f,60:0d0d0d,100:0a192f&height=260&text=Devendra%20Rawat&fontSize=60&fontColor=64ffda&fontAlignY=40&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Engineer%20%E2%80%A2%20Open%20Source%20Enthusiast&descSize=18&descColor=8892b0&descAlignY=62&animation=fadeIn&stroke=64ffda&strokeWidth=1.5" />
 
 </div>
 
-<br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   TYPING ANIMATION                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFB800&center=true&vCenter=true&width=600&lines=Turning+ideas+into+pixel-perfect+interfaces;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Open+to+Freelance+%2B+Full-time+Opportunities;Building+in+public+%E2%80%94+one+commit+at+a+time)](https://git.io/typing-svg)
+<br/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&repeat=true&width=680&height=50&lines=Hey+there%2C+I'm+Devendra+👋;I+craft+beautiful+web+experiences;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Always+learning%2C+always+shipping+🚀;Open+to+Work+—+Let's+build+something+great!)](https://git.io/typing-svg)
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bytesbydev&color=FFB800&style=flat-square&label=PROFILE+VIEWS)
+<!-- Status Badges -->
+![Status](https://img.shields.io/badge/◉%20Open%20to%20Work-64ffda?style=flat-square&logoColor=0a192f&labelColor=0a192f&color=64ffda)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Bytesbydev?color=FFB800&style=flat-square&label=FOLLOWERS&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍%20India-8892b0?style=flat-square&labelColor=0a192f&color=0a192f)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/Bytesbydev?color=FFB800&style=flat-square&label=STARS&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/⚡%20Frontend%20Developer-ccd6f6?style=flat-square&labelColor=0a192f&color=0a192f)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Bytesbydev&color=64ffda&style=flat-square&label=Profile+Views)
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  AESTHETIC DIVIDER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ABOUT ME                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-## ◈ &nbsp; About Me
+<div align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">&nbsp;&nbsp;<b><font size="5">About Me</font></b>
+</div>
 
-<table>
+<br/>
+
+<table align="center" width="90%">
 <tr>
-<td width="60%" valign="top">
+<td valign="top" width="55%">
 
-```yaml
-# devendra.yaml
-───────────────────────────────
-name       : Devendra Rawat
-handle     : @Bytesbydev
-role       : Frontend Developer
-based_in   : India 🇮🇳
-status     : ◉ Open to Work
+```ts
+// about.ts
 
-focus:
-  - Next.js 14+ (App Router)
-  - Production-grade UI/UX
-  - Open Source Contributions
-  - DSA with C++ & Java
+const devendra = {
+  name     : "Devendra Rawat",
+  alias    : "Bytesbydev",
+  role     : "Frontend Developer",
+  location : "India 🇮🇳",
 
-seeking:
-  - Freelance Projects
-  - Full-time Roles
-  - Open Source Collabs
+  passions : [
+    "Building pixel-perfect UIs",
+    "Open source contributions",
+    "Learning in public",
+    "Clean, maintainable code",
+  ],
 
-motto: "ship it, then make it beautiful"
-───────────────────────────────
+  currentlyLearning : [
+    "Next.js 14 App Router",
+    "System Design",
+    "DSA with C++",
+  ],
+
+  availableFor : [
+    "Freelance",
+    "Full-time",
+    "Collaborations",
+  ],
+
+  funFact : "My code reviews are better than my notes 😄",
+} as const;
 ```
 
 </td>
-<td width="40%" valign="middle" align="center">
+<td valign="top" width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+<br/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-64ffda?style=for-the-badge&labelColor=0a192f)](https://bytesbydev.vercel.app)
+
+[![Resume](https://img.shields.io/badge/📄%20Resume-Download-8892b0?style=for-the-badge&labelColor=0a192f)](https://bytesbydev.vercel.app)
 
 </td>
 </tr>
@@ -69,194 +106,298 @@ motto: "ship it, then make it beautiful"
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ◈ &nbsp; Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     TECH STACK                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28px">&nbsp;&nbsp;<b><font size="5">Tech Stack</font></b>
+</div>
+
+<br/>
 
 <div align="center">
 
-**— FRONTEND —**
+<!-- Row 1: Frontend -->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!-- Row 2: Backend & DB -->
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql,mongodb&theme=dark&perline=8" />
+</p>
 
-**— BACKEND & DATA —**
+<!-- Row 3: Languages -->
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark&perline=8" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**— LANGUAGES —**
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**— TOOLS —**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- Row 4: Tools -->
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux&theme=dark&perline=8" />
+</p>
 
 </div>
 
 <br/>
 
----
-
-## ◈ &nbsp; Skill Matrix
-
+<!-- Proficiency Table -->
 <div align="center">
 
-| &nbsp; | Skill | Proficiency |
-|:---:|:---|:---|
-| 🎨 | HTML & CSS | `████████████████████` **95%** |
-| ⚛️ | React | `█████████████████░░░` **85%** |
-| 💛 | JavaScript | `████████████████░░░░` **80%** |
-| 🔧 | Git | `████████████████░░░░` **80%** |
-| 🌊 | Tailwind CSS | `██████████████░░░░░░` **70%** |
-| ⚙️ | C / C++ | `█████████████░░░░░░░` **65%** |
-| 🔺 | Next.js | `████████████░░░░░░░░` **60%** |
-| 🗄️ | SQL | `███████████░░░░░░░░░` **55%** |
-| 🔥 | Firebase | `███████████░░░░░░░░░` **55%** |
-| 🟢 | Node.js | `██████████░░░░░░░░░░` **50%** |
-| ☕ | Java | `██████████░░░░░░░░░░` **50%** |
-| 🎭 | Figma | `██████████░░░░░░░░░░` **50%** |
+<details>
+<summary><b>⚡ Skill Proficiency Breakdown</b></summary>
 
 <br/>
 
-![Overall](https://img.shields.io/badge/OVERALL-72%25%20·%20Leveling%20Up%20Daily-FFB800?style=for-the-badge&labelColor=1a1a2e)
+| Skill | Level | Bar |
+|:---|:---:|:---|
+| 🎨 HTML & CSS | **95%** | `██████████████████░░` |
+| ⚛️ React | **85%** | `█████████████████░░░` |
+| 💛 JavaScript | **80%** | `████████████████░░░░` |
+| 🔧 Git & GitHub | **80%** | `████████████████░░░░` |
+| 🌊 Tailwind CSS | **75%** | `███████████████░░░░░` |
+| ⚙️ C / C++ | **65%** | `█████████████░░░░░░░` |
+| 🔺 Next.js | **60%** | `████████████░░░░░░░░` |
+| 🗄️ SQL / Firebase | **55%** | `███████████░░░░░░░░░` |
+| 🟢 Node.js | **50%** | `██████████░░░░░░░░░░` |
+
+</details>
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ◈ &nbsp; GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/cIn5fTcjnPBNFwmHmP/giphy.gif" width="28px">&nbsp;&nbsp;<b><font size="5">GitHub Stats</font></b>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB800&icon_color=FFB800&text_color=e0c97f&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFB800&text_color=e0c97f&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&theme=tokyonight&hide_border=true&background=0d1117&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=e0c97f&dates=888&stroke=FFB800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&rank_icon=github&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&langs_count=8" />
 
 </div>
 
 <br/>
 
----
-
-## ◈ &nbsp; Contribution Graph
-
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FFB800&line=e0c97f&point=FFB800&area=true&area_color=332200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=64ffda&sideNums=ccd6f6&currStreakNum=ccd6f6" />
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ◈ &nbsp; Pac-Man Contributions
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <b><font size="5">📈 Contribution Graph</font></b>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bytesbydev/Bytesbydev/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=0d2137&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <br/>
 
----
-
-## ◈ &nbsp; Trophies
-
+<!-- PAC-MAN -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/Bytesbydev/Bytesbydev/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" />
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ◈ &nbsp; What I'm Building Toward
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                FEATURED PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp;&nbsp;<b><font size="5">Featured Projects</font></b>
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Project Cards — replace links with your actual repos -->
+<a href="https://github.com/Bytesbydev">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Bytesbydev&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+</a>
+&nbsp;
+<a href="https://github.com/Bytesbydev">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bytesbydev&repo=Bytesbydev&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&description_lines_count=2" />
+</a>
+
+</div>
+
+<br/>
+
+> 💡 **Tip:** Replace the `repo=` values above with your actual repository names to display real project cards!
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              CURRENTLY LEARNING / GOALS                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <b><font size="5">🎯 Current Goals & Learning Path</font></b>
+</div>
+
+<br/>
 
 <div align="center">
 
 ```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                                                              │
-  │   🔭   Contribute to meaningful open source projects        │
-  │   📚   Master Next.js — SSR · SSG · ISR · App Router       │
-  │   🌐   Ship portfolio projects with real-world impact       │
-  │   ⚡   Sharpen DSA fundamentals with C++ & Java             │
-  │   🚀   Grow into a confident Full Stack Developer           │
-  │                                                              │
-  │   PROGRESS ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  72%                    │
-  │                                                              │
-  └──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                    ROADMAP  2025 → 2026                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                 ║
+║   ✅  Master React ecosystem (hooks, context, patterns)        ║
+║   🔄  Next.js 14 — App Router, Server Components, ISR         ║
+║   🔄  TypeScript — strict mode, advanced generics             ║
+║   ⏳  System Design fundamentals                               ║
+║   ⏳  DSA mastery with C++ & Java                             ║
+║   ⏳  Open Source — first meaningful PR                        ║
+║   ⏳  Full Stack — Node.js + PostgreSQL                        ║
+║                                                                 ║
+║   OVERALL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  72% → 100%                  ║
+║                                                                 ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ◈ &nbsp; Dev Quote
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 GITHUB TROPHIES                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <b><font size="5">🏆 GitHub Trophies</font></b>
+</div>
+
+<br/>
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-## ◈ &nbsp; Let's Connect
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 CONNECT WITH ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">&nbsp;&nbsp;<b><font size="5">Let's Connect</font></b>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f)](https://linkedin.com/in/Bytesbydev)
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0a192f)](https://twitter.com/Bytesbydev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f)](https://bytesbydev.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f)](https://github.com/Bytesbydev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f)](mailto:bytesbydev@gmail.com)
+
+<br/>
+
+```
+Always open to interesting conversations, collab ideas, or just a friendly hello!
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              ANIMATED SNAKE / FUN ELEMENT                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<!-- Random dev quote -->
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devendra%20Rawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://linkedin.com/in/Bytesbydev)
+![Visitors](https://komarev.com/ghpvc/?username=Bytesbydev&color=64ffda&style=for-the-badge&label=PROFILE+VISITORS)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-@Bytesbydev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0a0a0f)](https://twitter.com/Bytesbydev)
+![Stars](https://img.shields.io/github/stars/Bytesbydev?color=64ffda&style=for-the-badge&label=TOTAL+STARS&labelColor=0a192f)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-bytesbydev.vercel.app-FFB800?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0f)](https://bytesbydev.vercel.app)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-@Bytesbydev-white?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0f)](https://github.com/Bytesbydev)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-bytesbydev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:bytesbydev@gmail.com)
+![Followers](https://img.shields.io/github/followers/Bytesbydev?color=64ffda&style=for-the-badge&label=FOLLOWERS&labelColor=0a192f)
 
 <br/><br/>
 
-> *"Code is craft. Ship with intention."*
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Bytesbydev&color=FFB800&style=for-the-badge&label=VISITORS)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a1a2e,100:0a0a0f&height=100&section=footer&text=Bytesbydev%20·%202025&fontSize=16&fontColor=FFB800&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d2137,100:0a192f&height=100&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐&fontSize=18&fontColor=64ffda&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
+
+<!--
+  ✦ README crafted with precision by Bytesbydev
+  ✦ Color palette: #0a192f (navy) · #64ffda (teal) · #ccd6f6 (light) · #8892b0 (muted)
+  ✦ Last updated: 2025
+-->
