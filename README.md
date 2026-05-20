@@ -311,58 +311,74 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 CONNECT WITH ME                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">&nbsp;&nbsp;<b><font size="5">Let's Connect</font></b>
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f)](https://linkedin.com/in/Bytesbydev)
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0a192f)](https://twitter.com/Bytesbydev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f)](https://bytesbydev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f)](https://github.com/Bytesbydev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f)](mailto:bytesbydev@gmail.com)
-
-<br/>
-
-```
-
-Always open to interesting conversations, collab ideas, or just a friendly hello!
-
-```
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=Bytesbydev&color=64ffda&style=for-the-badge&label=PROFILE+VISITORS)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/Bytesbydev?color=64ffda&style=for-the-badge&label=TOTAL+STARS&labelColor=0a192f)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/Bytesbydev?color=64ffda&style=for-the-badge&label=FOLLOWERS&labelColor=0a192f)
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d2137,100:0a192f&height=100&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐&fontSize=18&fontColor=64ffda&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
-
-```
+<!-- ═══════════════════════════════════════════════════════════════ -->  
+<!--                 CONNECT WITH ME                              -->  
+<!-- ═══════════════════════════════════════════════════════════════ -->  
+  
+<br/>  
+  
+<div align="center">  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">&nbsp;&nbsp;<b><font size="5">Let's Connect</font></b>  
+</div>  
+  
+<br/>  
+  
+<div align="center">  
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f)](https://linkedin.com/in/Bytesbydev)  
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0a192f)](https://twitter.com/Bytesbydev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f)](https://bytesbydev.vercel.app)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f)](https://github.com/Bytesbydev)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f)](mailto:bytesbydev@gmail.com)  
+  
+<br/>  
+  
+```  
+Always open to interesting conversations, collab ideas, or just a friendly hello!  
+```  
+  
+</div>  
+  
+<br/>  
+  
+<!-- ═══════════════════════════════════════════════════════════════ -->  
+<!--              ANIMATED SNAKE / FUN ELEMENT                    -->  
+<!-- ═══════════════════════════════════════════════════════════════ -->  
+  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>  
+  
+<br/>  
+  
+<div align="center">  
+  
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding animation" />  
+  
+</div>  
+  
+<br/>  
+  
+<!-- ═══════════════════════════════════════════════════════════════ -->  
+<!--                      FOOTER                                  -->  
+<!-- ═══════════════════════════════════════════════════════════════ -->  
+  
+<div align="center">  
+  
+<br/>  
+  
+![Visitors](https://komarev.com/ghpvc/?username=Bytesbydev&color=64ffda&style=for-the-badge&label=PROFILE+VISITORS)  
+&nbsp;  
+![Stars](https://img.shields.io/github/stars/Bytesbydev?color=64ffda&style=for-the-badge&label=TOTAL+STARS&labelColor=0a192f)  
+&nbsp;  
+![Followers](https://img.shields.io/github/followers/Bytesbydev?color=64ffda&style=for-the-badge&label=FOLLOWERS&labelColor=0a192f)  
+  
+<br/><br/>  
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d2137,100:0a192f&height=100&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐&fontSize=18&fontColor=64ffda&fontAlignY=65&animation=twinkling" width="100%"/>  
+  
+</div>  
+  
+<!--  
+  ✦ README crafted with precision by Bytesbydev  
+  ✦ Color palette: #0a192f (navy) · #64ffda (teal) · #ccd6f6 (light) · #8892b0 (muted)  
+  ✦ Last updated: 2025  
+-->  
