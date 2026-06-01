@@ -1,11 +1,10 @@
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     HERO BANNER                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a192f,60:0d0d0d,100:0a192f&height=260&text=bytesbydev&fontSize=70&fontColor=64ffda&fontAlignY=40&desc=⚡%20Frontend%20Developer%20·%20UI%20Engineer%20·%20Open%20Source%20Enthusiast%20⚡&descSize=17&descColor=8892b0&descAlignY=63&animation=fadeIn&stroke=64ffda&strokeWidth=1.5" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0d0d0d,60:0d0d0d,100:0d0d0d&height=260&text=bytesbydev&fontSize=70&fontColor=00ff41&fontAlignY=40&desc=⚡%20Frontend%20Developer%20·%20UI%20Engineer%20·%20Open%20Source%20Enthusiast%20⚡&descSize=17&descColor=39ff14&descAlignY=63&animation=fadeIn&stroke=00ff41&strokeWidth=1.5" />
 
 </div>
 
@@ -17,17 +16,17 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hey+there!+I'm+%40bytesbydev+👋;I+turn+ideas+into+pixel-perfect+UIs;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Shipping+clean+code%2C+one+commit+at+a+time+🚀;Open+to+Work+—+Let's+build+together!;Code+is+craft.+I+take+it+seriously+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Hey+there!+I'm+%40bytesbydev+👋;I+turn+ideas+into+pixel-perfect+UIs;React+%7C+Next.js+%7C+Tailwind+%7C+Firebase;Shipping+clean+code%2C+one+commit+at+a+time+🚀;Open+to+Work+—+Let's+build+together!;Code+is+craft.+I+take+it+seriously+⚡)](https://git.io/typing-svg)
 
 <br/>
 
-![Status](https://img.shields.io/badge/◉%20Open%20to%20Work-64ffda?style=flat-square&logoColor=0a192f&labelColor=0a192f&color=64ffda)
+![Status](https://img.shields.io/badge/◉%20Open%20to%20Work-00ff41?style=flat-square&logoColor=0d0d0d&labelColor=0d0d0d&color=00ff41)
 &nbsp;
-![Location](https://img.shields.io/badge/📍%20India-8892b0?style=flat-square&labelColor=0a192f&color=0a192f)
+![Location](https://img.shields.io/badge/📍%20India-39ff14?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
 &nbsp;
-![Focus](https://img.shields.io/badge/⚡%20Frontend%20Developer-ccd6f6?style=flat-square&labelColor=0a192f&color=0a192f)
+![Focus](https://img.shields.io/badge/⚡%20Frontend%20Developer-ccffcc?style=flat-square&labelColor=0d0d0d&color=0d0d0d)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Bytesbydev&color=64ffda&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Bytesbydev&color=00ff41&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -94,8 +93,6 @@
 
 </div>
 
-<!-- IMPLEMENTED 6TH SUGGESTION -->
-
 <div align="center">
 
 <details>
@@ -137,8 +134,6 @@
 
 <br/>
 
-<!-- IMPLEMENTED MOBILE FRIENDLY + WORKING IMAGES -->
-
 ## 🤖 AI Resume Analyzer
 
 <a href="https://github.com/Bytesbydev/ai-resume-analyzer">
@@ -147,9 +142,9 @@
 
 > AI-powered resume analysis platform delivering ATS insights, scoring, and improvement recommendations in real time.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![AI](https://img.shields.io/badge/AI%20Powered-64ffda?style=flat-square&logoColor=0a192f&labelColor=0a192f)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41)
+![AI](https://img.shields.io/badge/AI%20Powered-00ff41?style=flat-square&logoColor=0d0d0d&labelColor=0d0d0d)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=00ff41)
 
 <br/>
 
@@ -161,9 +156,9 @@
 
 > Control and manipulate 3D objects with real-time hand gesture recognition.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
-![CV](https://img.shields.io/badge/Computer%20Vision-64ffda?style=flat-square&labelColor=0a192f)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41)
+![Three.js](https://img.shields.io/badge/Three.js-0d0d0d?style=flat-square&logo=three.js&logoColor=00ff41)
+![CV](https://img.shields.io/badge/Computer%20Vision-00ff41?style=flat-square&labelColor=0d0d0d)
 
 <br/>
 
@@ -175,9 +170,9 @@
 
 > Developer-focused dashboard to explore GitHub profiles, repositories, and analytics.
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=next.js&logoColor=00ff41)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwind-css&logoColor=00ff41)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-0d0d0d?style=flat-square&logo=github&logoColor=00ff41)
 
 <br/>
 
@@ -189,9 +184,9 @@
 
 > A curated collection of React components, hooks, patterns, and UI experiments.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41)
+![CSS](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=00ff41)
 
 <br/>
 
@@ -203,9 +198,9 @@
 
 > Search thousands of recipes by ingredients, cuisine, or dietary preference.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![API](https://img.shields.io/badge/Spoonacular%20API-64ffda?style=flat-square&labelColor=0a192f)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41)
+![API](https://img.shields.io/badge/Spoonacular%20API-00ff41?style=flat-square&labelColor=0d0d0d)
+![CSS](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=00ff41)
 
 <br/>
 
@@ -217,14 +212,11 @@
 
 > A modern travel and trekking guide UI with destinations, routes, and planning tools.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=00ff41)
+![CSS](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41)
 
 <br/>
-
-<!-- IMPLEMENTED 8TH SUGGESTION -->
-<!-- Removed complex side-by-side tables for better mobile responsiveness -->
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
@@ -242,8 +234,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&rank_icon=github&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&bg_color=0d0d0d&rank_icon=github&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&hide_border=true&title_color=00ff41&text_color=ccffcc&bg_color=0d0d0d&langs_count=8" />
 
 </div>
 
@@ -251,7 +243,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=64ffda&sideNums=ccd6f6&currStreakNum=ccd6f6" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=39ff14&dates=39ff14&stroke=00ff41&sideNums=ccffcc&currStreakNum=ccffcc" />
 
 </div>
 
@@ -273,7 +265,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&area_color=0d2137&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bytesbydev&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ccffcc&area=true&area_color=0d2137&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -303,7 +295,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -311,74 +303,74 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->  
-<!--                 CONNECT WITH ME                              -->  
-<!-- ═══════════════════════════════════════════════════════════════ -->  
-  
-<br/>  
-  
-<div align="center">  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">&nbsp;&nbsp;<b><font size="5">Let's Connect</font></b>  
-</div>  
-  
-<br/>  
-  
-<div align="center">  
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a192f)](https://linkedin.com/in/Bytesbydev)  
-[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&labelColor=0a192f)](https://twitter.com/Bytesbydev)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a192f)](https://bytesbydev.vercel.app)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0a192f)](https://github.com/Bytesbydev)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a192f)](mailto:bytesbydev@gmail.com)  
-  
-<br/>  
-  
-```  
-Always open to interesting conversations, collab ideas, or just a friendly hello!  
-```  
-  
-</div>  
-  
-<br/>  
-  
-<!-- ═══════════════════════════════════════════════════════════════ -->  
-<!--              ANIMATED SNAKE / FUN ELEMENT                    -->  
-<!-- ═══════════════════════════════════════════════════════════════ -->  
-  
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>  
-  
-<br/>  
-  
-<div align="center">  
-  
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding animation" />  
-  
-</div>  
-  
-<br/>  
-  
-<!-- ═══════════════════════════════════════════════════════════════ -->  
-<!--                      FOOTER                                  -->  
-<!-- ═══════════════════════════════════════════════════════════════ -->  
-  
-<div align="center">  
-  
-<br/>  
-  
-![Visitors](https://komarev.com/ghpvc/?username=Bytesbydev&color=64ffda&style=for-the-badge&label=PROFILE+VISITORS)  
-&nbsp;  
-![Stars](https://img.shields.io/github/stars/Bytesbydev?color=64ffda&style=for-the-badge&label=TOTAL+STARS&labelColor=0a192f)  
-&nbsp;  
-![Followers](https://img.shields.io/github/followers/Bytesbydev?color=64ffda&style=for-the-badge&label=FOLLOWERS&labelColor=0a192f)  
-  
-<br/><br/>  
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:0d2137,100:0a192f&height=100&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐&fontSize=18&fontColor=64ffda&fontAlignY=65&animation=twinkling" width="100%"/>  
-  
-</div>  
-  
-<!--  
-  ✦ README crafted with precision by Bytesbydev  
-  ✦ Color palette: #0a192f (navy) · #64ffda (teal) · #ccd6f6 (light) · #8892b0 (muted)  
-  ✦ Last updated: 2025  
--->  
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 CONNECT WITH ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">&nbsp;&nbsp;<b><font size="5">Let's Connect</font></b>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d0d0d)](https://linkedin.com/in/Bytesbydev)
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-%230d0d0d.svg?style=for-the-badge&logo=X&logoColor=00ff41&labelColor=0d0d0d)](https://twitter.com/Bytesbydev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230d0d0d.svg?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0d0d0d)](https://bytesbydev.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d.svg?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0d0d)](https://github.com/Bytesbydev)
+[![Gmail](https://img.shields.io/badge/Gmail-%230d0d0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d0d0d)](mailto:bytesbydev@gmail.com)
+
+<br/>
+
+```
+Always open to interesting conversations, collab ideas, or just a friendly hello!
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              ANIMATED SNAKE / FUN ELEMENT                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="380" alt="coding animation" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=Bytesbydev&color=00ff41&style=for-the-badge&label=PROFILE+VISITORS)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Bytesbydev?color=00ff41&style=for-the-badge&label=TOTAL+STARS&labelColor=0d0d0d)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Bytesbydev?color=00ff41&style=for-the-badge&label=FOLLOWERS&labelColor=0d0d0d)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0d2200,100:0d0d0d&height=100&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20⭐&fontSize=18&fontColor=00ff41&fontAlignY=65&animation=twinkling" width="100%"/>
+
+</div>
+
+<!--
+  ✦ README crafted with precision by Bytesbydev
+  ✦ Color palette: #0d0d0d (black) · #00ff41 (matrix green) · #ccffcc (light green) · #39ff14 (neon green)
+  ✦ Last updated: 2025
+-->
