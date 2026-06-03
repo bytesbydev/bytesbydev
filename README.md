@@ -290,20 +290,23 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 GITHUB TROPHIES                              -->
+<!--                 GITHUB TROPHIES                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
 <div align="center">
-  <b><font size="5">🏆 GitHub Trophies</font></b>
+  <h2>🏆 GitHub Trophies</h2>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Bytesbydev&theme=nord&no-frame=true&no-bg=true&margin-w=10&column=6"
+    alt="GitHub Trophies"
+  />
 
 </div>
 
