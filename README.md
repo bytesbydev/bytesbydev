@@ -251,7 +251,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=64ffda&sideNums=ccd6f6&currStreakNum=ccd6f6" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bytesbydev&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=64ffda&sideNums=ccd6f6&currStreakNum=ccd6f6" />
 
 </div>
 
