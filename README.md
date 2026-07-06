@@ -231,32 +231,20 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                   GITHUB STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/cIn5fTcjnPBNFwmHmP/giphy.gif" width="28px">&nbsp;&nbsp;<b><font size="5">GitHub Stats</font></b>
+  <img src="https://media.giphy.com/media/cIn5fTcjnPBNFwmHmP/giphy.gif" width="28px">&nbsp;&nbsp;<b><h3>GitHub Stats</h3></b>
 </div>
-
 <br/>
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&rank_icon=github&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&langs_count=8" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bytesbydev&show_icons=true&count_private=true&hide_border=true&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&rank_icon=github&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bytesbydev&layout=compact&hide_border=true&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&langs_count=8" />
 </div>
-
 <br/>
-
 <div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bytesbydev&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=64ffda&sideNums=ccd6f6&currStreakNum=ccd6f6" />
-
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Bytesbydev&hide_border=true&background=0a192f&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&stroke=64ffda&sideNums=ccd6f6&currStreakNum=ccd6f6" />
 </div>
-
 <br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
